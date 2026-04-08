@@ -5,7 +5,7 @@ This is a simple digital clock built with React + Vite.
 ---
 
 ## Technologies Used
-* *Front-End:*
+* **Front-End:**
     * React with Vite 
     * CSS 
 
